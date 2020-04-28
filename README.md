@@ -23,3 +23,5 @@ as well as the implications ("what does it mean for our business?")
 
 Therefore, based on the information we have for each applicant, will this person be able to repay the loan on time? Try out classification
 prediction using the data we have.
+
+To get access on dataset, please contact me at gaoxx844@umn.edu.
